@@ -1,0 +1,1 @@
+Document service - for adding documents to the db (saving a file, providing a download link to the file for the end-user, adding tags and metadata to it), accounting interactions (how many people liked the post, which comments are located under it, how many non-unique views it received), finding and modifying its location (within the framework of STUDY YEAR - COURSE - DATA TYPE)

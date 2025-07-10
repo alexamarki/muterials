@@ -1,0 +1,1 @@
+Interactions service - for storing comments and likes for all the users, as well as modifying said comments and likes. Isn't the best implementation by far, but OKAY given the particularly small supposed user base.
